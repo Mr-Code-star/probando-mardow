@@ -189,6 +189,10 @@ https://github.com/DevWebUPC/report
   jsabdjoasdb
   ajsdbasjodbasojbdoasbdouasboas
   ##### 1.2.2.4. Lean UX Canvas
+  nsdjasndoojasndoasdnoadsn
+  asdnasdjobads
+  asjdasjdboasbdoasdb
+  asdkasjbdijasbiuasdbuaisdbuad
 ### 1.3. Segmentos objetivos
 
 ## Capitulo 2: Requirements Elicitation & Analysis
