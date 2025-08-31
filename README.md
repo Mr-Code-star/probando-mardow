@@ -164,6 +164,12 @@ https://github.com/DevWebUPC/report
   #### 1.1.2. Perfiles de Integrantes del equipo
 ### 1.2. Solution Profile
   #### 1.2.1. Antecedentes y problemática
+  snadioasn
+  sakdnasoidn
+  iasndoiasbdn
+  jasdioasdb
+  kasdnpasidn
+  inasdadi
   #### 1.2.2. Lean UX Process
   ##### 1.2.2.1. Lean UX Problem Statements
   sandoasnd
