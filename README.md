@@ -161,7 +161,12 @@ https://github.com/DevWebUPC/report
 ## Capitulo 1: Introducción
 ### 1.1. Startup Profile
   #### 1.1.1. Descripcion del Startup
+  hdoashdoi
+  sakdasddaos
   #### 1.1.2. Perfiles de Integrantes del equipo
+  oiasjdoiasdj
+  kasndoasdnoi
+  kasndoiasdn
 ### 1.2. Solution Profile
   #### 1.2.1. Antecedentes y problemática
   #### 1.2.2. Lean UX Process
